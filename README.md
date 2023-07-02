@@ -1,4 +1,4 @@
-# BharatIntern-Task2
+# BharatIntern-Task1
 # Netflix Login Page Clone
 
 📺🔒 A clone of the Netflix login page with HTML, CSS, and JavaScript. 🎥🔑
